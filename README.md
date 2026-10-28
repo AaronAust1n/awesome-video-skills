@@ -27,7 +27,7 @@
 - [Open-Source Video Generation Models](#open-source-video-generation-models) (36)
 - [Digital Humans, Voice & Toolchain](#digital-humans-voice--toolchain) (45)
 - [Video Translation & Lip Sync](#video-translation--lip-sync) (15)
-- [Video Subtitle, Transcription & Translation Tools](#video-subtitle-transcription--translation-tools) (13)
+- [Video Subtitle, Transcription & Translation Tools](#video-subtitle-transcription--translation-tools) (14)
 - [Video Enhancement, Super-Resolution & Restoration](#video-enhancement-super-resolution--restoration) (25)
 - [ComfyUI Video Ecosystem & Custom Nodes](#comfyui-video-ecosystem--custom-nodes) (20)
 - [FFmpeg & CLI Video Toolchain](#ffmpeg--cli-video-toolchain) (8)
@@ -461,6 +461,8 @@ Finished films whose entire pipeline was driven by a text model writing code. Cl
 | [subtitle-burner](https://github.com/july-lyan/subtitle-burner) | 4 | Python | Medium | 2025-04 | Whisper auto-transcription + one-click subtitle burning to video with web UI | — |
 | [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) | 1.4k | Python | Active | 2026-09-22 | Whisper speech recognition using CTranslate2 — 4x faster than OpenAI's original implementation. | — |
 | [video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) | 1.2k | Python | Moderate | 2024-02-01 | Audio → SRT subtitles, fully local Transformer ASR, GUI included. | — |
+| [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) | 0 | Python | Active | 2026-10-28 | Local SDH and Chinese-to-English subtitle review; offline paired-SRT import, optional Qwen assistance, ITT/SRT export. MIT; public preview; cloud AI may cost money. | — |
+
 
 ## Video Enhancement, Super-Resolution & Restoration
 

@@ -27,7 +27,7 @@
 - [开源视频生成模型](#开源视频生成模型) (36)
 - [数字人、语音与工具链](#数字人语音与工具链) (45)
 - [视频翻译与唇形同步](#视频翻译与唇形同步) (15)
-- [视频字幕、转写与翻译工具](#视频字幕转写与翻译工具) (13)
+- [视频字幕、转写与翻译工具](#视频字幕转写与翻译工具) (14)
 - [视频增强、超分与修复](#视频增强超分与修复) (25)
 - [ComfyUI 视频生态与自定义节点](#comfyui-视频生态与自定义节点) (20)
 - [FFmpeg 与 CLI 视频工具链](#ffmpeg-与-cli-视频工具链) (8)
@@ -461,6 +461,8 @@
 | [subtitle-burner](https://github.com/july-lyan/subtitle-burner) | 4 | Python | Medium | 2025-04 | Whisper 自动转写 + 一键烧录字幕到视频，支持 Web 界面和命令行 | — |
 | [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) | 1.4k | Python | Active | 2026-09-22 | 使用 CTranslate2 的 Whisper 语音识别——比 OpenAI 原版快 4 倍。 | — |
 | [video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) | 1.2k | Python | Moderate | 2024-02-01 | 音频生成 SRT 字幕，全本地 Transformer ASR，带 GUI。 | — |
+| [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) | 0 | Python | Active | 2026-10-28 | 本地 SDH 与中文配音英译审校；支持离线双 SRT 导入、可选 Qwen 辅助、ITT/SRT 导出。MIT；公开预览版；云端 AI 可能收费。 | — |
+
 
 ## 视频增强、超分与修复
 
