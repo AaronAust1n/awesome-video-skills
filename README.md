@@ -8,7 +8,7 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Data snapshot: 2026-10-07** · Star counts from the GitHub API on that date (`54.3k` = 54,300 stars). · **479 GitHub repos + X community signals**
+**Data snapshot: 2026-10-07** · Star counts from the GitHub API on that date (`54.3k` = 54,300 stars). · **480 GitHub repos + X community signals**
 
 ---
 
@@ -18,7 +18,7 @@
 - [Render Engines (code → video)](#render-engines-code--video) (39)
 - [AI Video Editing Agents](#ai-video-editing-agents) (36)
 - [Agentic Production Systems & Short-Video Pipelines](#agentic-production-systems--short-video-pipelines) (28)
-- [MCP & Control Layers](#mcp--control-layers) (13)
+- [MCP & Control Layers](#mcp--control-layers) (14)
 - [Video Skills: Product Films, Promos & Explainers](#video-skills-product-films-promos--explainers) (45)
 - [Video Skills: Short Drama, Story & Recap](#video-skills-short-drama-story--recap) (9)
 - [manim & Math-Education Videos](#manim--math-education-videos) (19)
@@ -199,6 +199,9 @@ Finished films whose entire pipeline was driven by a text model writing code. Cl
 | [video-audio-mcp](https://github.com/misbahsy/video-audio-mcp) | 87 | Python | Medium | 2025-07 | FFmpeg-powered MCP server for video/audio editing: format conversion, trimming, overlays, transitions | — |
 | [ffmpeg-skill](https://github.com/MastroMimmo/ffmpeg-skill) | 21 | Python | Medium | 2025-08 | Natural language video editing skill for Claude Code — 18 commands covering cut, merge, compress, subtitle, GIF, wate... | — |
 | [short-video-maker](https://github.com/gyoridavid/short-video-maker) | 1.4k | TypeScript | Active | 2026-09-20 | Short-video generator: script → TTS voiceover → auto subtitles → background footage → MP4. | — |
+| [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) | 0 | Python | Active | 2026-11-06 | MIT-licensed connector and editing skills for Valmera's proprietary hosted editor: uploaded footage → cuts, captions, preview and MP4. Account and paid editing plan required. | [▶](https://valmera.io/examples/trim-and-reframe) |
+
+Valmera MCP entry metadata verified on 2026-11-06.
 
 ## Video Skills: Product Films, Promos & Explainers
 

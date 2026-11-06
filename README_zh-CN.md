@@ -8,7 +8,7 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**数据快照：2026-10-07** · Stars 数据来自当日 GitHub API（`54.3k` = 54,300 星）· **479 个 GitHub 仓库 + X 社区动态**
+**数据快照：2026-10-07** · Stars 数据来自当日 GitHub API（`54.3k` = 54,300 星）· **480 个 GitHub 仓库 + X 社区动态**
 
 ---
 
@@ -18,7 +18,7 @@
 - [渲染引擎（代码→视频）](#渲染引擎代码视频) (39)
 - [AI 视频编辑 Agent](#ai-视频编辑-agent) (36)
 - [Agentic 生产系统与短视频流水线](#agentic-生产系统与短视频流水线) (28)
-- [MCP 与控制层](#mcp-与控制层) (13)
+- [MCP 与控制层](#mcp-与控制层) (14)
 - [视频技能：产品影片、宣传片与解说视频](#视频技能产品影片宣传片与解说视频) (45)
 - [视频技能：短剧、故事与 Recap](#视频技能短剧故事与-recap) (9)
 - [manim 与数学教育视频](#manim-与数学教育视频) (19)
@@ -199,6 +199,9 @@
 | [video-audio-mcp](https://github.com/misbahsy/video-audio-mcp) | 87 | Python | Medium | 2025-07 | 基于 FFmpeg 的视频/音频编辑 MCP 服务器，支持格式转换、裁剪、叠加和转场 | — |
 | [ffmpeg-skill](https://github.com/MastroMimmo/ffmpeg-skill) | 21 | Python | Medium | 2025-08 | Claude Code 自然语言视频编辑技能，18 个命令覆盖裁剪/合并/压缩/字幕/GIF/水印 | — |
 | [short-video-maker](https://github.com/gyoridavid/short-video-maker) | 1.4k | TypeScript | Active | 2026-09-20 | 短视频生成器：脚本 → TTS 配音 → 自动字幕 → 背景素材 → MP4。 | — |
+| [Valmera MCP](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) | 0 | Python | Active | 2026-11-06 | MIT 许可的连接器与剪辑技能，连接 Valmera 专有托管编辑器：上传素材 → 剪切、字幕、预览与 MP4 导出；需要账户及付费剪辑套餐。 | [▶](https://valmera.io/examples/trim-and-reframe) |
+
+Valmera MCP 条目元数据于 2026-11-06 核实。
 
 ## 视频技能：产品影片、宣传片与解说视频
 
