@@ -199,6 +199,7 @@ Finished films whose entire pipeline was driven by a text model writing code. Cl
 | [video-audio-mcp](https://github.com/misbahsy/video-audio-mcp) | 87 | Python | Medium | 2025-07 | FFmpeg-powered MCP server for video/audio editing: format conversion, trimming, overlays, transitions | — |
 | [ffmpeg-skill](https://github.com/MastroMimmo/ffmpeg-skill) | 21 | Python | Medium | 2025-08 | Natural language video editing skill for Claude Code — 18 commands covering cut, merge, compress, subtitle, GIF, wate... | — |
 | [short-video-maker](https://github.com/gyoridavid/short-video-maker) | 1.4k | TypeScript | Active | 2026-09-20 | Short-video generator: script → TTS voiceover → auto subtitles → background footage → MP4. | — |
+| [Kling AI Claude plugin](https://github.com/klingai-tech/claude-plugin) | 2 | — | Active | 2026-11-13 | Official MIT-licensed Claude plugin for image and video generation through hosted MCP; OAuth and paid account credits required. | — |
 
 ## Video Skills: Product Films, Promos & Explainers
 
