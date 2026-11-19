@@ -18,7 +18,7 @@
 - [渲染引擎（代码→视频）](#渲染引擎代码视频) (39)
 - [AI 视频编辑 Agent](#ai-视频编辑-agent) (36)
 - [Agentic 生产系统与短视频流水线](#agentic-生产系统与短视频流水线) (28)
-- [MCP 与控制层](#mcp-与控制层) (13)
+- [MCP 与控制层](#mcp-与控制层) (15)
 - [视频技能：产品影片、宣传片与解说视频](#视频技能产品影片宣传片与解说视频) (45)
 - [视频技能：短剧、故事与 Recap](#视频技能短剧故事与-recap) (9)
 - [manim 与数学教育视频](#manim-与数学教育视频) (19)
@@ -188,6 +188,8 @@
 |---------|-------|----------|----------|-------------|-------------|------|
 | [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | 29.7k | — | — | — | 用任意 LLM 控制 Blender 3D 的社区插件。[▶ 演示](https://www.youtube.com/watch?v=I29rn92gkC4) | [▶](https://www.youtube.com/watch?v=I29rn92gkC4) |
 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 898 | — | — | — | 让任意 AI Agent 产出可用的图像、视频、音频与 3D。 | — |
+| [Kling AI Global Plugin](https://github.com/klingai-tech/claude-plugin) | — | — | — | — | 可灵官方全球区 MCP Plugin，通过 OAuth 创作图片与视频，消耗全球区账号积分。[端点](https://kling.ai/mcp/plugin) · [npm Plugin](https://www.npmjs.com/package/@klingai/plugin-global) · [CLI](https://www.npmjs.com/package/@klingai/cli-global)。 | — |
+| [Kling AI China Plugin](https://github.com/klingai-tech/claude-plugin-cn) | — | — | — | — | 可灵官方中国区 MCP Plugin，通过 OAuth 创作图片与视频，消耗中国区账号积分。[端点](https://klingai.com/mcp/plugin) · [npm Plugin](https://www.npmjs.com/package/@klingai/plugin-cn) · [CLI](https://www.npmjs.com/package/@klingai/cli-cn)。 | — |
 | [blend-ai](https://github.com/HoldMyBeer-gg/blend-ai) | 151 | — | — | — | Blender MCP server：186 个建模、材质、渲染等工具，由 Claude / Cursor 驱动。 | — |
 | [blender-mcp-bridge](https://github.com/seehiong/blender-mcp-bridge) | 65 | — | — | — | 通过 MCP 自动化 Blender 建模：93 个工具，含雕刻、建筑/MEP、材质。 | — |
 | [blender-mcp-pro](https://github.com/youichi-uda/blender-mcp-pro) | 31 | — | — | — | 100+ 工具的 MCP server：灯光、修改器、动画、着色器节点、几何节点。 | — |
