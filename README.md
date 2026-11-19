@@ -18,7 +18,7 @@
 - [Render Engines (code → video)](#render-engines-code--video) (39)
 - [AI Video Editing Agents](#ai-video-editing-agents) (36)
 - [Agentic Production Systems & Short-Video Pipelines](#agentic-production-systems--short-video-pipelines) (28)
-- [MCP & Control Layers](#mcp--control-layers) (13)
+- [MCP & Control Layers](#mcp--control-layers) (15)
 - [Video Skills: Product Films, Promos & Explainers](#video-skills-product-films-promos--explainers) (45)
 - [Video Skills: Short Drama, Story & Recap](#video-skills-short-drama-story--recap) (9)
 - [manim & Math-Education Videos](#manim--math-education-videos) (19)
