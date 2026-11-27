@@ -181,6 +181,7 @@ Finished films whose entire pipeline was driven by a text model writing code. Cl
 | [vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) | 242 | Python | High | 2025-09 | Turn any topic into a Vox-style paper-collage explainer video with script, animation, voice-over and captions | [▶](https://www.youtube.com/watch?v=chK_pnV1wqQ) |
 | [aimv-studio](https://github.com/shaozheng0503/aimv-studio) | 20 | Python | Active | 2026-09-10 | Multi-agent MV generation system: AI composes music, writes lyrics, generates visuals, edits final video. | — |
 | [bang-story](https://github.com/bangtutorial/bang-story) | 71 | TypeScript | Active | 2026-10-02 | Desktop app (Indonesian): turn a story idea into a finished YouTube video with AI (from the bang-motion author). | — |
+| [reelstyles-free](https://github.com/reelstyles/reelstyles-free) | 4 | JavaScript | Active | 2026-11-24 | 9 free film style kits for Claude Code, Codex and Cursor. The agent animates in code and renders an MP4 with HyperFrames on your computer. | [▶](https://reelstyles.com/free) |
 
 ## MCP & Control Layers
 
